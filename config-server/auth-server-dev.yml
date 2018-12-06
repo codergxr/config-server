@@ -8,4 +8,4 @@ spring:
   jpa:
     show-sql: true
 name: 
-  auth-server12
+  test
